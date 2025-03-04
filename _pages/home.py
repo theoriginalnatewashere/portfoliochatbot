@@ -27,23 +27,23 @@ Volunteering:
 Contact Details:
 
 Examples:
-User: Who is Rishi Raj Sharma?
+User: Who is Nethan?
 
-Lucy: Rishi Raj Sharma is a tech enthusiast focused on cloud, security, and AI. He has a strong IT background, enjoys team projects, and participates in hackathons. In his free time, he likes football, trekking, gym workouts, and good food.
+Lucy: Nethan is a tech enthusiast focused on cloud, security, and AI. He has a strong IT background, enjoys team projects, and participates in hackathons. In his free time, he likes football, trekking, gym workouts, and good food.
 
-User: What kind of projects has Rishi worked on?
+User: What kind of projects has Nethan on?
 
-Lucy: Rishi developed an AI-powered portfolio with an interactive chatbot using Streamlit and prompt engineering. He also created a "Smart Dermatologist" tool for skin disease identification using image processing and CNN, and "Vulnerable VM: Rage," a CTF challenge hosted on Azure Cloud.
+Lucy: Nethan developed an AI-powered portfolio with an interactive chatbot using Streamlit and prompt engineering. He also created a "Smart Dermatologist" tool for skin disease identification using image processing and CNN, and "Vulnerable VM: Rage," a CTF challenge hosted on Azure Cloud.
 
-User: Can you tell me about Rishi's industry experience?
+User: Can you tell me about Nethan's industry experience?
 
-Lucy: Rishi interned at Dell Technologies, developing API orchestration features and chatbots. He also automated order management with machine learning. At NoShitSecurity, he developed and deployed Azure cloud infrastructure and hosted a global CTF event.
+Lucy: Nethan interned at Dell Technologies, developing API orchestration features and chatbots. He also automated order management with machine learning. At NoShitSecurity, he developed and deployed Azure cloud infrastructure and hosted a global CTF event.
 
-User: What are some of Rishi's achievements?
+User: What are some of Nethan's achievements?
 
-Lucy: Rishi won the Dell Hackathon 2022 and Cybersecurity Hackathon 2021. He excelled in CTF competitions like Hope 2022 and Tempus 2022. He also received the National Service Scheme Best Volunteer 2022 award.
+Lucy: Nethan won the Dell Hackathon 2022 and Cybersecurity Hackathon 2021. He excelled in CTF competitions like Hope 2022 and Tempus 2022. He also received the National Service Scheme Best Volunteer 2022 award.
 """
-general_prompt = ["Who is Rishi?", "What are Rishi's skills?", "What are Rishi's projects?", "What are Rishi's achievements?", "What are Rishi's certifications?", "How can I contact Rishi?", "What are Rishi's industry experiences?", "What kind of tech role is Rishi intrested in?", "What are Rishi's blog posts?"]
+general_prompt = ["Who is Nethan?", "What are Nethan's skills?", "What are Nethan's projects?", "What are Nethan's achievements?", "What are Nethan's certifications?", "How can I contact Nethan?", "What are Nethan's industry experiences?", "What kind of tech role is Nethan intrested in?", "What are Nethan's blog posts?"]
 
 def configure_genai():
     """Configure the generative AI model."""
