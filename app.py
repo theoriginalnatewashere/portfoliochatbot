@@ -6,7 +6,7 @@ from streamlit_pills import pills
 MODEL_NAME = "models/gemini-1.5-flash"
 
 st.set_page_config(
-    page_title="DataPod Assistant",
+    page_title="Nethan's Assistant",
     page_icon="robot",
     layout="wide",
     initial_sidebar_state="collapsed",
